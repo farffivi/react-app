@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-image: url("images/title.png");
+  height: 200px;
+ 
+  background-size: 100% 100%;
+  margin: 15px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.Carousel{
+  width: inherit;
+  
+}
+
+.Paper{
+  margin: 23px 80px;
+}
+
+.Carousel-text{
+  margin: 40px;
+  height: 450px;
+}
